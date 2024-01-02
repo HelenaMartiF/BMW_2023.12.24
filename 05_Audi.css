@@ -85,3 +85,174 @@ body {
     font-weight: bold;
     color: black;
 }
+
+.second_child {
+    text-align: center;
+    padding: 20px 0px;
+    font-weight: bold;
+    width: 100%;
+/*     border-bottom: 0.5px solid #e6e6e6; */
+}
+
+.selector {
+    list-style-type: none;
+    display: flex;
+    justify-content: left;
+    gap: 40px;
+    padding-left: 0px;
+
+}
+
+.go_to {
+    text-decoration: none;
+    color: black;
+    color: #666666;
+}
+
+.go_to:hover {
+    text-decoration: underline 3px black;
+    text-underline-offset: 15px;
+    color: black;
+}
+
+
+/*------------------- CAR PICTURES --------------------- */
+
+.separator1 {
+    font-size: 50px;
+    color: #666666;
+    height: auto;
+    width: 100%;
+}
+
+.separator {
+    font-size: 50px;
+    color: #666666;
+    height: auto;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.A1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.car_model {
+    font-weight: bold;
+    color: black;
+    margin-bottom: 0px;
+    margin-left: 85px;
+}
+
+.car_price {
+    font-weight: bold;
+    color: #666666;
+    margin-top: 5px;
+    margin-left: 85px;
+}
+
+.know_more {
+    padding: 15px 80px;
+    font-size: 16px;
+    margin-left: 85px;
+    border: solid 1px black;
+    background-color: white;
+}
+
+.A3 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.A4 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.A5  {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.A6 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.A7 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.A8 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.e-tronGT {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+ .Q2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Q3 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Q4e-tron {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Q5 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Q7 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Q8 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Q8e-tron {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.R8 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.TT {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
